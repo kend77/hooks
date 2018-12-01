@@ -30,3 +30,14 @@
     transform: rotate(360deg);
   }
 }
+
+.album-container {
+	display: inline;
+}
+.album {
+	height: 22em;
+}
+
+.album-input {
+	margin-top: 2em;
+}
